@@ -1,0 +1,1 @@
+The goal of this application is to use LangChain and OpenAI API to make the user load a certain pdf file and ask questions to be answered from this Pdf. Given that the LLMs will not always have the answers to all your questions this application will help you to get more precise answers for your questions as you provide it with a specific resource.
